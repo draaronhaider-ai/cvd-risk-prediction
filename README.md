@@ -2,6 +2,8 @@
 
 A machine learning project that builds a binary classifier to predict 10-year cardiovascular risk using a synthetic UK primary care dataset. Developed as a practical demonstration of applied machine learning in a clinical context, with reference to how tools like QRISK3 are used in NHS general practice.
 
+This was made with minimal coding knowledge and extensive AI assistance, highlighting the accessibility of practical applied ML from a non-coding background.  
+
 ---
 
 ## Background
