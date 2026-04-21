@@ -127,8 +127,8 @@ Random forest AUC-ROC: 0.77 for comparison
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/draaronhaider-ai/cvd-risk-prediction.git
+cd cvd-risk-prediction
 pip install -r requirements.txt
 jupyter notebook
 ```
